@@ -10,11 +10,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tên-github-của-bạn&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thannhf&layout=compact&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tên-github-của-bạn&theme=darkhub&rank=SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📫 How to reach me:
 
