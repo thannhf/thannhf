@@ -1,17 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm ThanhnguyenX</h1>
+<h3 align="center">A passionate developer from Vietnam</h3>
+### 🛠️ Languages and Tools:
 
-<!--
-**thannhf/thannhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaxtr&show_icons=true&theme=tokyonight&rank_icon=github&hide_title=false)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tên-github-của-bạn&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tên-github-của-bạn&layout=compact&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tên-github-của-bạn&theme=darkhub&rank=SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📫 How to reach me:
+
+- Email: thanhnguyen126agz@gmail.com
+- Location: Hanoi, Vietnam
