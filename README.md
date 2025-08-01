@@ -2,6 +2,7 @@
 
 <!--
 **thannhf/thannhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaxtr&show_icons=true&theme=tokyonight&rank_icon=github&hide_title=false)
 
 Here are some ideas to get you started:
 
