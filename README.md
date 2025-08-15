@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm ThanhnguyenX</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-### 📊 GitHub Overview (Stats & Trophies on same row)
+### 📊 GitHub Overview (Stats & Trophies on same row & top lang)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thannhf&layout=compact&theme=tokyonight" width="30%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B" width="30%" />
+  </a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thannhf&layout=compact&theme=tokyonight)
 
 #### 🌐 Frontend:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,6 +59,5 @@
 ![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 📫 How to reach me:
-
 - Email: thanhnguyen126agz@gmail.com
 - Location: Hanoi, Vietnam
