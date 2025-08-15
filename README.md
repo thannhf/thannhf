@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm ThanhnguyenX</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
-### 🛠️ Languages and Tools:
+
+### 📊 GitHub Overview (Stats & Trophies on same row)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B" width="45%" />
+</p>
 
 #### 🌐 Frontend:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,17 +54,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 ![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thannhf&layout=compact&theme=tokyonight)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📫 How to reach me:
 
