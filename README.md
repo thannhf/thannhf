@@ -3,10 +3,13 @@
 
 ### 📊 GitHub Overview (Stats & Trophies on same row & top lang)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thannhf&layout=compact&theme=tokyonight" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thannhf&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B" width="30%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B" width="60%" />
   </a>
 </p>
 
