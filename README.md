@@ -1,17 +1,25 @@
-<h1 align="center">Hi 👋, I'm ThanhnguyenX</h1>
+<h1 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm ThanhnguyenX</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-### 📊 GitHub Overview (Stats & Trophies on same row & top lang)
+---
+
+### 📊 GitHub Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thannhf&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
+### 🔥 Coding Activity & Fun Stats & trophy
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thannhf&theme=tokyonight&hide_border=true" width="45%"/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B" width="60%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B" width="45%"/>
   </a>
 </p>
+
+---
+
+### 🛠️ Languages and Tools:
 
 #### 🌐 Frontend:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,6 +69,8 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 ![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 
+---
+
 ### 📫 How to reach me:
-- Email: thanhnguyen126agz@gmail.com
+- Email: thanhnguyen126agz@gmail.com  
 - Location: Hanoi, Vietnam
