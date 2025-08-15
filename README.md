@@ -6,6 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight" width="45%" />
   <img src="https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B" width="45%" />
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thannhf&layout=compact&theme=tokyonight)
 
 #### 🌐 Frontend:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
