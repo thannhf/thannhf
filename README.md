@@ -9,11 +9,11 @@
 </p>
 
 ### 🔥 Coding Activity & Fun Stats & trophy
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thannhf&theme=tokyonight&hide_border=true" width="45%"/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thannhf&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" width="70%" alt="GitHub Trophies"/>
-  </a>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thannhf&theme=tokyonight&hide_border=true" width="45%"/> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=thannhf&theme=darkhub&rank=SSS,SS,S,A,B" width="70%"/> 
+  </a> 
 </p>
 
 ---
