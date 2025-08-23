@@ -1,0 +1,26 @@
+name: Update GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Chạy mỗi Chủ nhật lúc 00:00 UTC
+  workflow_dispatch: # Cho phép chạy thủ công
+
+jobs:
+  update-trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download latest trophy.svg
+        run: |
+          mkdir -p assets
+          curl -o assets/trophy.svg "https://github-profile-trophy.vercel.app/?username=thannhf&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/trophy.svg
+          git commit -m "chore: update trophy.svg" || echo "No changes to commit"
+          git push
