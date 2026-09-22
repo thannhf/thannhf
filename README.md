@@ -10,8 +10,16 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <!-- Thống kê tổng commit, PR, Issue,... -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thannhf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  
+  <!-- Ngôn ngữ sử dụng nhiều nhất -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thannhf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+</p>
+
+<!-- Badge hiển thị riêng Tổng số Commits (Tùy chọn) -->
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/thannhf/thannhf?style=for-the-badge&label=Total%20Commits&color=7aa2f7&logo=git&logoColor=white" alt="Commit Activity" />
 </p>
 
 <p align="center">
