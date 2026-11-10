@@ -23,5 +23,4 @@
 
 ### 📫 How to reach me:
 
-- 📧 **Email:** [thanhnguyen126agz@gmail.com](mailto:thanhnguyen126agz@gmail.com)
 - 📍 **Location:** Hanoi, Vietnam
