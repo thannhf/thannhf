@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60">
+  <defs>
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="0" height="60">
+        <animate attributeName="width" values="0;600;600;0" keyTimes="0;0.5;0.9;1"
+                 dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="300" y="38" text-anchor="middle" font-family="monospace"
+        font-size="28" font-weight="700" fill="#FF7E5F" clip-path="url(#reveal)">
+    Hi 🐋, I'm ThanhnguyenX
+  </text>
+</svg>
