@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="382" viewBox="0 0 900 382" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="382" viewBox="0 0 900 382" font-family="'Segoe UI',Ubuntu,Arial,sans-serif">
   <defs>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -9,14 +9,14 @@
   <text x="880" y="34" text-anchor="end" font-size="13" fill="#565f89">9/10 unlocked</text>
   <g transform="translate(20,56)" opacity="1">
     <rect width="164" height="148" rx="12" fill="#24283b" stroke="#414868" stroke-width="1"/>
-    <polygon points="82.0,16 108.0,31 108.0,61 82.0,76 56.0,61 56.0,31" fill="#cd7f32" fill-opacity="0.15" stroke="#cd7f32" stroke-width="2" filter="url(#glow)"/>
-    <g transform="translate(70.0,34)" fill="none" stroke="#cd7f32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M1.05 12H8M16 12h6.95"/></g>
-    <circle cx="108.0" cy="20" r="10" fill="#cd7f32"/>
-    <text x="108.0" y="24" text-anchor="middle" font-size="12" font-weight="800" fill="#1a1b27">C</text>
+    <polygon points="82.0,16 108.0,31 108.0,61 82.0,76 56.0,61 56.0,31" fill="#c0c0c0" fill-opacity="0.15" stroke="#c0c0c0" stroke-width="2" filter="url(#glow)"/>
+    <g transform="translate(70.0,34)" fill="none" stroke="#c0c0c0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M1.05 12H8M16 12h6.95"/></g>
+    <circle cx="108.0" cy="20" r="10" fill="#c0c0c0"/>
+    <text x="108.0" y="24" text-anchor="middle" font-size="12" font-weight="800" fill="#1a1b27">B</text>
     <text x="82.0" y="96" text-anchor="middle" font-size="14" font-weight="700" fill="#c0caf5">Committer</text>
-    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Bronze · 494 / 500</text>
+    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Silver · 528 / 1000</text>
     <rect x="18" y="124" width="128" height="6" rx="3" fill="#1a1b27"/>
-    <rect x="18" y="124" width="126.1" height="6" rx="3" fill="#cd7f32"/>
+    <rect x="18" y="124" width="7.2" height="6" rx="3" fill="#c0c0c0"/>
   </g>
   <g transform="translate(194,56)" opacity="1">
     <rect width="164" height="148" rx="12" fill="#24283b" stroke="#414868" stroke-width="1"/>
@@ -47,9 +47,9 @@
     <circle cx="108.0" cy="20" r="10" fill="#ffd166"/>
     <text x="108.0" y="24" text-anchor="middle" font-size="12" font-weight="800" fill="#1a1b27">A</text>
     <text x="82.0" y="96" text-anchor="middle" font-size="14" font-weight="700" fill="#c0caf5">Repo Builder</text>
-    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Gold · 36 / 50</text>
+    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Gold · 31 / 50</text>
     <rect x="18" y="124" width="128" height="6" rx="3" fill="#1a1b27"/>
-    <rect x="18" y="124" width="38.4" height="6" rx="3" fill="#ffd166"/>
+    <rect x="18" y="124" width="6.4" height="6" rx="3" fill="#ffd166"/>
   </g>
   <g transform="translate(716,56)" opacity="1">
     <rect width="164" height="148" rx="12" fill="#24283b" stroke="#414868" stroke-width="1"/>
@@ -58,9 +58,9 @@
     <circle cx="108.0" cy="20" r="10" fill="#c0c0c0"/>
     <text x="108.0" y="24" text-anchor="middle" font-size="12" font-weight="800" fill="#1a1b27">B</text>
     <text x="82.0" y="96" text-anchor="middle" font-size="14" font-weight="700" fill="#c0caf5">PR Master</text>
-    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Silver · 13 / 50</text>
+    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Silver · 16 / 50</text>
     <rect x="18" y="124" width="128" height="6" rx="3" fill="#1a1b27"/>
-    <rect x="18" y="124" width="9.6" height="6" rx="3" fill="#c0c0c0"/>
+    <rect x="18" y="124" width="19.2" height="6" rx="3" fill="#c0c0c0"/>
   </g>
   <g transform="translate(20,214)" opacity="1">
     <rect width="164" height="148" rx="12" fill="#24283b" stroke="#414868" stroke-width="1"/>
@@ -69,31 +69,31 @@
     <circle cx="108.0" cy="20" r="10" fill="#ffd166"/>
     <text x="108.0" y="24" text-anchor="middle" font-size="12" font-weight="800" fill="#1a1b27">A</text>
     <text x="82.0" y="96" text-anchor="middle" font-size="14" font-weight="700" fill="#c0caf5">Issue Hunter</text>
-    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Gold · 34 / 100</text>
+    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Gold · 41 / 100</text>
     <rect x="18" y="124" width="128" height="6" rx="3" fill="#1a1b27"/>
-    <rect x="18" y="124" width="7.3" height="6" rx="3" fill="#ffd166"/>
+    <rect x="18" y="124" width="20.1" height="6" rx="3" fill="#ffd166"/>
   </g>
   <g transform="translate(194,214)" opacity="1">
     <rect width="164" height="148" rx="12" fill="#24283b" stroke="#414868" stroke-width="1"/>
-    <polygon points="82.0,16 108.0,31 108.0,61 82.0,76 56.0,61 56.0,31" fill="#7dcfff" fill-opacity="0.15" stroke="#7dcfff" stroke-width="2" filter="url(#glow)"/>
-    <g transform="translate(70.0,34)" fill="none" stroke="#7dcfff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></g>
-    <circle cx="108.0" cy="20" r="10" fill="#7dcfff"/>
-    <text x="108.0" y="24" text-anchor="middle" font-size="12" font-weight="800" fill="#1a1b27">S</text>
+    <polygon points="82.0,16 108.0,31 108.0,61 82.0,76 56.0,61 56.0,31" fill="#c0c0c0" fill-opacity="0.15" stroke="#c0c0c0" stroke-width="2" filter="url(#glow)"/>
+    <g transform="translate(70.0,34)" fill="none" stroke="#c0c0c0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></g>
+    <circle cx="108.0" cy="20" r="10" fill="#c0c0c0"/>
+    <text x="108.0" y="24" text-anchor="middle" font-size="12" font-weight="800" fill="#1a1b27">B</text>
     <text x="82.0" y="96" text-anchor="middle" font-size="14" font-weight="700" fill="#c0caf5">Polyglot</text>
-    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Diamond · 14 · MAX</text>
+    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Silver · 5 / 8</text>
     <rect x="18" y="124" width="128" height="6" rx="3" fill="#1a1b27"/>
-    <rect x="18" y="124" width="128.0" height="6" rx="3" fill="#7dcfff"/>
+    <rect x="18" y="124" width="0.0" height="6" rx="3" fill="#c0c0c0"/>
   </g>
   <g transform="translate(368,214)" opacity="1">
     <rect width="164" height="148" rx="12" fill="#24283b" stroke="#414868" stroke-width="1"/>
-    <polygon points="82.0,16 108.0,31 108.0,61 82.0,76 56.0,61 56.0,31" fill="#cd7f32" fill-opacity="0.15" stroke="#cd7f32" stroke-width="2" filter="url(#glow)"/>
-    <g transform="translate(70.0,34)" fill="none" stroke="#cd7f32" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></g>
-    <circle cx="108.0" cy="20" r="10" fill="#cd7f32"/>
-    <text x="108.0" y="24" text-anchor="middle" font-size="12" font-weight="800" fill="#1a1b27">C</text>
+    <polygon points="82.0,16 108.0,31 108.0,61 82.0,76 56.0,61 56.0,31" fill="#c0c0c0" fill-opacity="0.15" stroke="#c0c0c0" stroke-width="2" filter="url(#glow)"/>
+    <g transform="translate(70.0,34)" fill="none" stroke="#c0c0c0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></g>
+    <circle cx="108.0" cy="20" r="10" fill="#c0c0c0"/>
+    <text x="108.0" y="24" text-anchor="middle" font-size="12" font-weight="800" fill="#1a1b27">B</text>
     <text x="82.0" y="96" text-anchor="middle" font-size="14" font-weight="700" fill="#c0caf5">On Fire</text>
-    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Bronze · 4 / 7</text>
+    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Silver · 10 / 30</text>
     <rect x="18" y="124" width="128" height="6" rx="3" fill="#1a1b27"/>
-    <rect x="18" y="124" width="32.0" height="6" rx="3" fill="#cd7f32"/>
+    <rect x="18" y="124" width="16.7" height="6" rx="3" fill="#c0c0c0"/>
   </g>
   <g transform="translate(542,214)" opacity="0.55">
     <rect width="164" height="148" rx="12" fill="#24283b" stroke="#414868" stroke-width="1"/>
@@ -117,4 +117,4 @@
     <rect x="18" y="124" width="128" height="6" rx="3" fill="#1a1b27"/>
     <rect x="18" y="124" width="0.0" height="6" rx="3" fill="#ffd166"/>
   </g>
-<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowMTJhZTM5YS03ZjA5LTQ1NDItYTQzZC0zZjY3MWNjYzVkMjcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGKPY/isXR6lK9UK6nKfGscAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5ZjZmNzBkMC0xOWUyLTQ3ZWEtYWM4NC05NGI3NGVlNzZiZWNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNocwkPHU0pYnf1rVkjeEdEZQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg3xMIlxrAqiiPacwBU6tiDAogfU2I8p8gx+IHleJO+0GkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBFTlnkXkQXeWdMqw9+2Mp4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIHT90e1CvdO+Tv5e3Vbg4QZGN6yNodRq/2zTQRns7t/uZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSv4Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjAxMmFlMzlhLTdmMDktNDU0Mi1hNDNkLTNmNjcxY2NjNWQyNy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmQwNTc3YWVmLTJhN2UtNGU2Ni04ZmNhLTk5OTU3OWMwYzJkNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDfEwiXGsCqKI9pzAFTq2IMCiB9TYjynyDH4geV4k77QaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggQC7tYi09O2FbjGwOPeurNHcatMsYPhaZ6B2IMmmkna2iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg0yHcUh4YwDa3bMqaWFzFi9TxGbOEkUQ4RcLIFByFcWp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPasbKSEIZ/fVJdwLYv+ChD8Dv5dYnyjBVx8ezMwj5FPOWevwZb2QZ0rERuPcSqp/VfKiwxMHekZCeEt8GiV5Ao=</c2pa:manifest></metadata></svg>
+</svg>
