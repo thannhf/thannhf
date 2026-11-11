@@ -16,17 +16,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1) Tổng quan đầy đủ: profile, commit, PR, issue, repo, license...
+      # 1) Tổng quan (gọn)
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: thannhf
           template: classic
           filename: metrics/overview.svg
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_display: columns
           config_timezone: Asia/Ho_Chi_Minh
-          config_animations: yes
 
       # 2) Ngôn ngữ + số dòng code + topics
       - uses: lowlighter/metrics@latest
@@ -40,15 +39,13 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage, bytes-size
+          plugin_languages_details: percentage
           plugin_languages_analysis_timeout: 30
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_limit: 12
 
-      # 3) Repo nổi bật + đóng góp đáng chú ý
+      # 3) Repo nổi bật
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -58,40 +55,31 @@ jobs:
           base: ""
           config_display: columns
           plugin_repositories: yes
-          plugin_repositories_featured: thannhf/thannhf
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
 
-      # 4) Lịch đóng góp 2D (không 3D) + streak
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: thannhf
-          template: classic
-          filename: metrics/calendar.svg
-          base: ""
-          config_display: columns
-          plugin_calendar: yes
-          plugin_calendar_limit: 12
-          plugin_calendar_size: 14
-          plugin_streak: yes
-          plugin_streak_days: 365
-
-  tryhackme:
+  assets:
     runs-on: ubuntu-latest
     needs: metrics
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Tải badge TryHackMe về repo
-        run: |
-          mkdir -p assets
-          curl -fsSL "https://tryhackme-badges.s3.amazonaws.com/38cudo.png" -o assets/tryhackme.png
+        with:
+          ref: ${{ github.ref_name }}
+
+      # Huy hiệu tự vẽ bằng SVG, mở khóa theo số liệu thật
+      - name: Tạo huy hiệu thành tựu
+        env:
+          GH_USER: thannhf
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python3 scripts/generate_badges.py
+
+      # Badge TryHackMe tải về lưu trong repo
+      - name: Tải badge TryHackMe
+        run: curl -fsSL "https://tryhackme-badges.s3.amazonaws.com/38cudo.png" -o assets/tryhackme.png || echo "TryHackMe lỗi, giữ ảnh cũ"
+
       - name: Commit nếu có thay đổi
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/tryhackme.png
-          git diff --cached --quiet || (git commit -m "chore: update tryhackme badge" && git pull --rebase && git push)
+          git add assets/badges.svg assets/tryhackme.png
+          git diff --cached --quiet || (git commit -m "chore: update badges" && git pull --rebase && git push)

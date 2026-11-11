@@ -8,32 +8,32 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="./metrics/overview.svg" width="100%" alt="GitHub Overview" />
+  <img src="./metrics/overview.svg" width="70%" alt="GitHub Overview" />
 </p>
 
 ### 💻 Languages & Topics
 
 <p align="center">
-  <img src="./metrics/languages.svg" width="100%" alt="Languages" />
+  <img src="./metrics/languages.svg" width="70%" alt="Languages" />
 </p>
 
-### 📦 Featured Repositories
+### 📦 Repositories
 
 <p align="center">
-  <img src="./metrics/repos.svg" width="100%" alt="Repositories" />
+  <img src="./metrics/repos.svg" width="70%" alt="Repositories" />
 </p>
 
-### 🔥 Contributions
+### 🏆 Achievements
 
 <p align="center">
-  <img src="./metrics/calendar.svg" width="100%" alt="Contributions" />
+  <img src="./assets/badges.svg" width="85%" alt="Achievements" />
 </p>
 
 ### 🛡️ TryHackMe
 
 <p align="center">
   <a href="https://tryhackme.com/p/38cudo">
-    <img src="./assets/tryhackme.png" width="420" alt="TryHackMe Profile" />
+    <img src="./assets/tryhackme.png" width="380" alt="TryHackMe Profile" />
   </a>
 </p>
 
