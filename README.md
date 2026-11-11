@@ -1,26 +1,44 @@
 <p align="center">
   <img src="./assets/header.svg" alt="Header" />
 </p>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 
 ---
 
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="./metrics/overview.svg" width="48%" alt="GitHub Stats" />
-  <img src="./metrics/languages.svg" width="48%" alt="Top Languages" />
+  <img src="./metrics/overview.svg" width="100%" alt="GitHub Overview" />
 </p>
 
-### 🔥 Coding Activity & Achievements
+### 💻 Languages & Topics
 
 <p align="center">
-  <img src="./metrics/streak.svg" width="48%" alt="Streak" />
-  <img src="./metrics/achievements.svg" width="48%" alt="Achievements" />
+  <img src="./metrics/languages.svg" width="100%" alt="Languages" />
+</p>
+
+### 📦 Featured Repositories
+
+<p align="center">
+  <img src="./metrics/repos.svg" width="100%" alt="Repositories" />
+</p>
+
+### 🔥 Contributions
+
+<p align="center">
+  <img src="./metrics/calendar.svg" width="100%" alt="Contributions" />
+</p>
+
+### 🛡️ TryHackMe
+
+<p align="center">
+  <a href="https://tryhackme.com/p/38cudo">
+    <img src="./assets/tryhackme.png" width="420" alt="TryHackMe Profile" />
+  </a>
 </p>
 
 ---
 
-### 📫 How to reach me:
+### 📫 How to reach me
 
 - 📍 **Location:** Hanoi, Vietnam
