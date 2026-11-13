@@ -14,9 +14,9 @@
     <circle cx="108.0" cy="20" r="10" fill="#c0c0c0"/>
     <text x="108.0" y="24" text-anchor="middle" font-size="12" font-weight="800" fill="#1a1b27">B</text>
     <text x="82.0" y="96" text-anchor="middle" font-size="14" font-weight="700" fill="#c0caf5">Committer</text>
-    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Silver · 528 / 1000</text>
+    <text x="82.0" y="112" text-anchor="middle" font-size="11" fill="#565f89">Silver · 529 / 1000</text>
     <rect x="18" y="124" width="128" height="6" rx="3" fill="#1a1b27"/>
-    <rect x="18" y="124" width="7.2" height="6" rx="3" fill="#c0c0c0"/>
+    <rect x="18" y="124" width="7.4" height="6" rx="3" fill="#c0c0c0"/>
   </g>
   <g transform="translate(194,56)" opacity="1">
     <rect width="164" height="148" rx="12" fill="#24283b" stroke="#414868" stroke-width="1"/>
